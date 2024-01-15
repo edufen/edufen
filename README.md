@@ -8,12 +8,12 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Pontifícia 
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/eduardobdlima/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="https://www.facebook.com/edulimadb" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/edulimadb" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
