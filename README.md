@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gray&section=header&reversal=false"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Eduardo+Batista!;Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+My+name+is+Eduardo+Batista.;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 I'm currently studying Systems Analysis and Development at the Pontifical Catholic University of Goiás (PUC-GO).
 Seeking opportunities to learn and grow in the field. 
