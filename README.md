@@ -5,6 +5,9 @@
 I'm currently studying Systems Analysis and Development at the Pontifical Catholic University of Goiás (PUC-GO).
 Seeking opportunities to learn and grow in the field. 
 
+At the moment, I'm participating in Avanti's data science bootcamp, and pursuing a certification in IBM's Data Analyst on Coursera!
+Currently, I'm working on expanding my portfolio, so feedback is highly appreciated
+
 You can connect or contact me through my social media:
 
 <p align="left">
